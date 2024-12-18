@@ -58,3 +58,12 @@ When in doubt, consider whether everyone in the email thread needs to see your r
 
 #### 9. **Do not make the same mistake**
 If you make a mistake and I help you correct it, try not to repeat the same error. For instance, in LaTeX, one should use ``some text'' instead of "some text" to ensure proper quotation formatting. Saddly, I have to do this for a paper,  just hours ago. 
+
+#### 10. **A Deadline Means a Deadline**
+Meeting deadlines is one of the most critical traits I expect my students to develop. Do not ask for an extension just hours before the deadline, nor request a few extra hours—it raises questions about the quality of work you could produce in such a short time.
+
+Building a good reputation takes weeks, months, or even years, but it can be damaged in a single instance when you fail to meet expectations. You will no longer be seen as someone **"who delivers on time."** As I often say, everyone starts with a 100% ``trust score.`` Each instance of missed expectations reduces that score, and it is incredibly difficult, if possible at all, to regain a perfect score once it has been diminished.
+
+
+#### 11. **Do not wait till the last minute**
+See #10.
