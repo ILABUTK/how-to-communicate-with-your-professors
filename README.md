@@ -2,6 +2,8 @@
 
 Finally, I decided to create this Git Repo after repeatedly and, admittedly, with some frustration, reminding my students (Undergraduate, Masters, and Ph.D.) about the importance of improving communication and practicing basic (email) etiquette. I did use ChatGPT to polish my draft, which is good, as it may tone down some of my original language. 😃
 
+![This is not the Ten Commitments, which are great, by the way](https://americanhumanistcenterforeducation.org/wp-content/uploads/2020/07/10C-English-lo.jpg)
+
 ### Guidelines
 
 #### 1. **Be Responsive**
