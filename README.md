@@ -67,6 +67,5 @@ Meeting deadlines is one of the most critical traits I expect my students to dev
 
 Building a good reputation takes weeks, months, or even years, but it can be damaged in a single instance when you fail to meet expectations. You will no longer be seen as someone **"who delivers on time."** As I often say, everyone starts with a 100% ``trust score.`` Each instance of missed expectations reduces that score, and it is incredibly difficult, if possible at all, to regain a perfect score once it has been diminished.
 
+**Do not wait till the last minute**
 
-#### 11. **Do not wait till the last minute**
-See #10.
