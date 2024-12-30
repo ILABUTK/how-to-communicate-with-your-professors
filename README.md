@@ -60,7 +60,9 @@ For example:
 When in doubt, consider whether everyone in the email thread needs to see your response. If not, narrow your recipients accordingly.
 
 #### 9. **Do not make the same mistake**
-If you make a mistake and I help you correct it, try not to repeat the same error. For instance, in LaTeX, one should use ``some text'' instead of "some text" to ensure proper quotation formatting. Saddly, I have to do this for a paper,  just hours ago. 
+If you make a mistake and I help you correct it, try not to repeat the same error. For instance, in LaTeX, one should use ``some text'' instead of "some text" to ensure proper quotation formatting. Saddly, I have to do this for a paper, just hours ago. 
+
+- Here is [a general guide for a GitHub repo](how_to_git_repo.MD)
 
 #### 10. **A Deadline Means a Deadline**
 Meeting deadlines is one of the most critical traits I expect my students to develop. Do not ask for an extension just hours before the deadline, nor request a few extra hours—it raises questions about the quality of work you could produce in such a short time.
