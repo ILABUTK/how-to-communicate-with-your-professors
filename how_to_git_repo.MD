@@ -47,7 +47,12 @@ Include project-related images and visualizations.
 - For larger projects:
   - Break them into smaller repositories.
   - Each repository should lead to a paper or specific topic.
-- Not all repositories require this exact structure—be adaptive.
+- Not all repositories require this exact structure — be adaptive.
+
+### General Workflow
+- Always fetch the newest version before working on it
+- Create your own branch and start to work on it
+- Create a pull request to merge your branch to the main branch
 
 ### Code Best Practices
 1. Remove unused dummy code from `.ipynb` or `.py` files.
