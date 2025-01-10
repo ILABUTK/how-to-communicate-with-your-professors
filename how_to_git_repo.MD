@@ -53,15 +53,16 @@ Include project-related images and visualizations.
 - Always fetch the newest version before working on it
 - Create your own branch and start to work on it
 - Create a pull request to merge your branch to the main branch
+- If you fork the original repo, fine. You can still make a pull request
 
 ### Code Best Practices
 1. Remove unused dummy code from `.ipynb` or `.py` files.
 2. Remove unused files.
 3. Add proper markdown headings in `.ipynb` or `.py`.
 4. Add comments to your code.
-5. Refactor & optimize code after initial development.
+5. Refactor & optimize code after initial development. You can do the dirty trial-n-error in your branch! When you are done, commit the clean code to the main branch.
 
-### Technical Notes
+### Technical Notes (**Internal use only**)
 - Ensure the code (repository) is on the GPU server's `shared_space`, if applicable.
 - If you need help setting up GitHub in your folder on the GPU server, contact Dr. Li.
 
